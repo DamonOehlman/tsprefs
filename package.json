@@ -1,0 +1,10 @@
+{
+  "name": "tsprefs",
+  "version": "1.0.0",
+  "description": "Personal configuration preferences for TS development",
+  "main": "index.js",
+  "repository": "https://github.com/DamonOehlman/tsprefs.git",
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
